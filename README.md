@@ -3,4 +3,4 @@
 
 ## [1. 기본적 분석](https://github.com/caesar-kim/Invest/blob/main/FA.md)
 ## [2. 기술적 분석](https://github.com/caesar-kim/Invest/blob/main/TA.md)
-## [3.실전 적용 사례들](https://github.com/caesar-kim/Invest/blob/main/RA.md)
+## [3. 실전 적용 사례들](https://github.com/caesar-kim/Invest/blob/main/RA.md)
